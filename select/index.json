@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "base_track": "完全感覚Dreamer",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-19T14:22:52.070778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer - Kanzen kankaku Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_完全感覚Dreamer_-_Kanzen_kankaku_Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kanzen Kankaku Dreamer [完全感覚Dreamer]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Kanzen_Kankaku_Dreamer_[完全感覚Dreamer]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer (Kanzen Kankaku Dreamer)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_完全感覚Dreamer_(Kanzen_Kankaku_Dreamer)_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/07_完全感覚Dreamer_Various.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ONE OK ROCK 「完全感覚Dreamer」",
+      "artist": "zenigame0123",
+      "has_synced": true,
+      "path": "select/08_ONE_OK_ROCK_「完全感覚Dreamer」_zenigame0123.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_完全感覚Dreamer_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_01_完全感覚Dreamer_ONE_OK_ROCK.lrc",
+      "repo_name": "xGbxsiBZGPI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_02_完全感覚Dreamer_ONE_OK_ROCK.lrc",
+      "repo_name": "aGBItSo08iQ"
+    }
+  ]
+}
