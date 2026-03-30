@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "完全感覚Dreamer",
   "base_artist": "ONE OK ROCK",
-  "createdAt": "2026-03-19T14:22:52.070778Z",
+  "createdAt": "2026-03-30T14:28:40.742220Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,7 +83,7 @@
       "artist": "ONE OK ROCK",
       "has_synced": true,
       "path": "select/localdb_01_完全感覚Dreamer_ONE_OK_ROCK.lrc",
-      "repo_name": "xGbxsiBZGPI"
+      "repo_name": "NWDAjOsTYC8"
     },
     {
       "id": "localdb_2",
@@ -92,6 +92,15 @@
       "artist": "ONE OK ROCK",
       "has_synced": true,
       "path": "select/localdb_02_完全感覚Dreamer_ONE_OK_ROCK.lrc",
+      "repo_name": "xGbxsiBZGPI"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_03_完全感覚Dreamer_ONE_OK_ROCK.lrc",
       "repo_name": "aGBItSo08iQ"
     }
   ]
